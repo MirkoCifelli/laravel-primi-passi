@@ -31,7 +31,7 @@
                 <main>
                     <div class="container m-4">
                         <h2>
-                            Hello World
+                            Features
                         </h2>
                     </div>
                 </main>
