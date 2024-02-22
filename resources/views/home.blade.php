@@ -8,7 +8,7 @@
 <body>
     <header>
         <h1>
-            Prova laravel
+            Php Laravel
         </h1>
     </header>
 
